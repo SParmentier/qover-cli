@@ -1,3 +1,5 @@
 # qover-cli
 
-Move the `qover.zsh` to your `.oh-my-zsh/custom/plugins/qover` folder
+Move the `qover.plugin.zsh` to your `.oh-my-zsh/custom/plugins/qover` folder
+
+Then you need to add `qover` to the plugins of your .zshrc
